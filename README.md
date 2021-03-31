@@ -1,4 +1,4 @@
-# eBay Webscaping
+# eBay webscaping
 
 ## Overview
 Performed analysis on eBay's Presidents Day sales by web-scraping detailed product information using Python
